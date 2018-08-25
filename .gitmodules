@@ -1,0 +1,9 @@
+[submodule "ASBCLI"]
+	path = ASBCLI
+	url = ./ASBCLI/
+[submodule "ASBLib"]
+	path = ASBLib
+	url = ./ASBLib
+[submodule "AltSrcBank.Tests"]
+	path = AltSrcBank.Tests
+	url = ./AltSrcBank.Tests/
