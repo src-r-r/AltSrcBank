@@ -1,9 +1,9 @@
 [submodule "ASBCLI"]
 	path = ASBCLI
-	url = ./ASBCLI/
+	url = git@github.com:src-r-r/ASBCLI.git
 [submodule "ASBLib"]
 	path = ASBLib
-	url = ./ASBLib
+	url = git@github.com:src-r-r/ASBLib.git
 [submodule "AltSrcBank.Tests"]
 	path = AltSrcBank.Tests
-	url = ./AltSrcBank.Tests/
+	url = git@github.com:src-r-r/AltSrcBank.Tests.git
